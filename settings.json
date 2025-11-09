@@ -1,8 +1,8 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "username": "keep_awake",
+    "password": "",
+    "type": "mojang"
   },
 
   "server": {
@@ -44,14 +44,11 @@
 
     "chat-messages": {
       "enabled": false,
-      "repeat": true,
-      "repeat-delay": 60,
+      "repeat": false,
+      "repeat-delay": 1,
 
       "messages": [
-        "I'm a regular player ",
-        "My owner is urFate_ ",
-        "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "/vanish @s"
       ]
     },
 
